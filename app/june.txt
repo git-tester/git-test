@@ -1,2 +1,6 @@
 The quick brown fox jumps over the lazy dog.
+<<<<<<< HEAD
 -added by emillan
+=======
+-added by zkusertester
+>>>>>>> origin/master

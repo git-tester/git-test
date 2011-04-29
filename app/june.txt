@@ -3,3 +3,4 @@ The quick brown fox jumps over the lazy dog.
 -added by emillan
 -added by zkusertester
 
+a new line that will not conflict with others' changes

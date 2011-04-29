@@ -2,4 +2,7 @@ The quick brown fox jumps over the lazy dog.
 
 -added by emillan
 -added by zkusertester
+
 trying to create a conflict
+a new line that will not conflict with others' changes
+
